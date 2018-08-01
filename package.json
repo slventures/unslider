@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/idiot/unslider#readme",
   "dependencies": {
-    "jquery": "^2.1.4"
+    "jquery": "<3"
   }
 }
